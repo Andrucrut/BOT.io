@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/BOT.io/static/css/main.9cec2df8.css",
+    "main.js": "/BOT.io/static/js/main.4d03db99.js",
+    "static/js/453.0d0ee323.chunk.js": "/BOT.io/static/js/453.0d0ee323.chunk.js",
+    "static/media/treasure.png": "/BOT.io/static/media/treasure.53d04a7f79571aada6e5.png",
+    "static/media/img.png": "/BOT.io/static/media/img.bf1576d1567fd0ff2afa.png",
+    "index.html": "/BOT.io/index.html",
+    "main.9cec2df8.css.map": "/BOT.io/static/css/main.9cec2df8.css.map",
+    "main.4d03db99.js.map": "/BOT.io/static/js/main.4d03db99.js.map",
+    "453.0d0ee323.chunk.js.map": "/BOT.io/static/js/453.0d0ee323.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9cec2df8.css",
+    "static/js/main.4d03db99.js"
+  ]
+}
